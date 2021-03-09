@@ -4,7 +4,7 @@
 
 ---
 
-Fejlesztők: ScopsyYT, KimaYT, dom, not.dave
+Fejlesztők: ScopsyYT, KimaYT, dom, not.dave, Peti
 
 <a href="http://invite.radonbot.tk">Hívd meg te is!</a>
 
