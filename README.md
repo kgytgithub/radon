@@ -8,7 +8,7 @@ Fejlesztők: ScopsyYT, KimaYT, dom, not.dave
 
 <a href="http://invite.radonbot.tk">Hívd meg te is!</a>
 
-###Parancsok:
+#Parancsok:
 
 **Fő parancsok**:
 - [help]() - aaa
